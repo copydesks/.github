@@ -2,6 +2,8 @@
 
 Each repository is one desk: an X account, or a small set of accounts, whose copy is drafted on a branch and shipped only when a pull request is merged.
 
+Grok Bot profiles are stubs. The real description lives in each desk repo under `bots/`.
+
 These accounts are not the people, brands, or books they may borrow a voice from.
 
 ## Desks
